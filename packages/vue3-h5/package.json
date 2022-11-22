@@ -1,0 +1,11 @@
+{
+  "name": "@ztemplate/vue3-h5",
+  "version": "1.0.0",
+  "description": " Vue3 H5开发模板",
+  "author": "",
+  "homepage": "",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
